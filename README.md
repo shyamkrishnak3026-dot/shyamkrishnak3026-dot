@@ -16,7 +16,9 @@
 
 ### 🧠 Skills & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,html,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,git,github,html" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/>
 </p>
 
 ---
