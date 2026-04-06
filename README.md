@@ -16,7 +16,7 @@
 
 ### 🧠 Skills & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,pandas,sklearn,html,git,github" />
+<img src="https://skillicons.dev/icons?i=python,pandas,sklearn,html,github" />
 </p>
 
 ---
